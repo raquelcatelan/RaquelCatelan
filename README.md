@@ -13,6 +13,6 @@ Tenho me dedicado a estudar HTML, CSS, JavaScript e ReactJs. E em mobile me inte
 
 Além disso venho estudando Design UI/UX que me despertou muita curiosidade e tenho vontade de trabalhar com essa área também.
 
-Você pode me encontrar no LINKEDIN: https://www.linkedin.com/in/raquelcatelanmpereira/
+Você pode me encontrar no LINKEDIN: https://www.linkedin.com/in/raquelcatelanmpereira/  <br>
 E entrar em contato comigo no meu e-mail: raquelpermarcat@outlook.com
 

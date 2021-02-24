@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Sou apaixonada por resolver problemas utilizando a programação.
-Sou um Front End Developer :computer:
+Sou uma Front End Developer :computer:
 
 
 Sou produtora audiovisual e agora desenvolvedora front-end, formada pelo Bootcamp da {reprograma}.

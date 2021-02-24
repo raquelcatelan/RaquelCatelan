@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
-**raquelcatelan/RaquelCatelan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonada por resolver problemas utilizando a programação.
+Sou um Front End Developer :computer:
+
 
 Sou produtora audiovisual e agora desenvolvedora front-end, formada pelo Bootcamp da {reprograma}.
 

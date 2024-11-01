@@ -1,19 +1,16 @@
 ### Hi there 👋
 
-Apaixonada por resolver problemas utilizando a programação.<br>
-Sou Front End Developer :computer:
+Apaixonada por resolver problemas. <br>
+
+UX/UI Designer apaixonada por criar experiências digitais humanizadas e eficazes. 
+
+Forte experiência em desenvolvimento front-end (1+ ano), o que me permite ter uma visão holística do processo de design e antecipar desafios técnicos. Busco colaborar com equipes que valorizam a inovação e o impacto positivo na vida das pessoas através de experiências digitais excepcionais.
+
+Atualmente, aprimoro minhas habilidades em pesquisa com usuários, usabilidade e prototipação no curso UX Unicórnio. Domínio ferramentas como Figma e Miro para criar protótipos de alta fidelidade, wireframes e interfaces intuitivas.
 
 
-Sou produtora audiovisual e agora desenvolvedora front-end, formada pelo Bootcamp da {reprograma}.
-
-Sempre fui apaixonada pela área de TI e acredito que as formações que eu tive me despertaram essa vontade de me tornar Desenvolvedora.
-Logo procurei um curso que me preparasse para isso e encontrei a {reprograma} que me trouxe muito mais, intensificou ainda mais as soft skills que eu já tinha como trabalho em equipe, empatia, colaboração , organização e criatividade para resolver problemas, ainda me capacitou a mais algumas, como por exemplo, independência e autonomia em pesquisas e pensar em aplicações que sejam úteis e ajudem a todos, com acessibilidade e diversidade sempre.
-
-Tenho me dedicado a estudar HTML, CSS, JavaScript e ReactJs. E em mobile me interesso muito por React Native e Kotlin através do software Android Studio, muito prático que pretendo aprender mais.
-
-Além disso venho estudando Design UI/UX que me despertou muita curiosidade e tenho vontade de trabalhar com essa área também.
 
 Você pode me encontrar no LINKEDIN: https://www.linkedin.com/in/raquelcatelanmpereira/  <br>
 Entrar em contato comigo no meu e-mail: raquelpermarcat@outlook.com <br>
-Ver meu perfil na Rocketseat https://app.rocketseat.com.br/me/raquel-catelan-00095
+Veja meu portfólio no behance: https://www.behance.net/raquelcatelan
 
